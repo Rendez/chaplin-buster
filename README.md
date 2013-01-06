@@ -16,6 +16,9 @@ Using the following tools/services:
 Head directly to the [TUTORIAL](https://github.com/Rendez/chaplin-buster/blob/master/TUTORIAL.md) file for an explanation step by step on how
 to get you TDD environment running right away.
 
+## Build status
+[![Build Status](https://secure.travis-ci.org/bgreenlee/pygtail.png)](https://travis-ci.org/Rendez/chaplin-buster)
+
 ## [The Cast](https://github.com/chaplinjs/chaplin/blob/master/AUTHORS.md#the-cast)
 
 ## [The Producers](https://github.com/chaplinjs/chaplin/blob/master/AUTHORS.md#the-producers)
